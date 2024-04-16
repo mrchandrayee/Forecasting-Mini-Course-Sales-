@@ -1,5 +1,5 @@
 # Forecasting-Mini-Course-Sales-
-Chand Rayee's submission scored 91.32 privately and 94.22 publicly. Their approach included training multiple models, continuous learning, and thorough feature preprocessing, resulting in accurate sales forecasts for submission.
+Chand Rayee's submission scored 91.32 privately and 94.22 publicly. Approach included training multiple models, continuous learning, and thorough feature preprocessing, resulting in accurate sales forecasts for submission.
 
 Forecasting sales is pivotal in business planning and management, influencing various aspects like sales deployment, financial planning, and marketing strategies. The accuracy of sales forecasts is paramount for informed decision-making and business success. Effective forecasting involves defining market categories, establishing processes, choosing appropriate techniques, and gathering data, utilizing both qualitative (expert judgment, surveys, historical analogies) and quantitative (statistical analysis) methods. Training courses, particularly mini-courses, can equip sales and marketing professionals with practical skills through exercises, quizzes, and learning materials.
 
